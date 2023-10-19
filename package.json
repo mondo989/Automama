@@ -1,0 +1,14 @@
+{
+  "name": "mom-messages-app",
+  "version": "1.0.0",
+  "description": "An automated application to send daily messages to Mom",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.2"
+  },
+  "author": "M",
+  "license": "MIT"
+}
